@@ -1,0 +1,22 @@
+[{
+    "id":1,
+    "question":"Which animal is known as the 'Ship of the Desert?",
+    "option":["cat","dog","rat","camel"],
+    "correctAns":"camel"
+},
+{
+    "id":2,
+    "question":"How many days are there in a week?",
+    "option":[4,2,7,1],
+    "correctAns":7
+},{
+    "id":3,
+    "question":"What is the capital of India?",
+    "option":["delhi","chennai","mumbai","kolkata"],
+    "correctAns":"delhi"
+},{
+    "id":4,
+    "question":"Which is the smallest month of the year?",
+    "option":["jan","feb","apr","may"],
+    "correctAns":"feb"
+}]
